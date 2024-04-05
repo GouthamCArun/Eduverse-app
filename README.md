@@ -1,2 +1,2 @@
-# Eduverse-app
+# srm_eduverse_app
  
